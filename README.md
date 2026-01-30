@@ -14,3 +14,6 @@ The purpose of this project is to:
 ## 🛠️ Technologies Used
 
 - HTML5 only
+
+## Project Link
+ - https://shivamresumehtml.netlify.app/
