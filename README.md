@@ -16,4 +16,4 @@ The purpose of this project is to:
 - HTML5 only
 
 ## Project Link
- - https://shivamresumehtml.netlify.app/
+ - https://shivamhtmlresume.netlify.app/
